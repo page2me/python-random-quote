@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+never use quote characters (regardless of string contents)
+always use quote characters (both for strings and numbers)
+write quote characters "as needed", meaning it put quotation marks around any value that either contains the separator character or the quotation character
